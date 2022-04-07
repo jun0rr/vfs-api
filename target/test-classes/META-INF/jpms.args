@@ -1,0 +1,4 @@
+--patch-module
+jun0rr.vfs=_
+--add-reads
+jun0rr.vfs=ALL-UNNAMED
